@@ -1,0 +1,28 @@
+_repo: Tijdtafel-der-geschiedenis-van-het-vaderlandIn-twintig-lessen_25871
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Best, Pieter
+    birthdate: 1800
+    deathdate: 1852
+    gutenberg_agent_id: '31632'
+    url: http://www.gutenberg.org/2009/agents/31632
+description: ''
+gutenberg_issued: '2008-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25871'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DJ'
+- !lcsh 'Netherlands -- History'
+title: 'Tijdtafel der geschiedenis van het vaderland
+
+  In twintig lessen'
+url: http://www.gutenberg.org/ebooks/25871
